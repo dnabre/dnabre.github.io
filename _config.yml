@@ -31,7 +31,8 @@ show_downloads: false
 
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
