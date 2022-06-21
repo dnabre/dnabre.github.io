@@ -1,9 +1,0 @@
-Endo-Steel              4.0t
-Double Heatsinks        12
-Armour Ferro-Fibrous    14.0t
-PPC                     2
-SRM-6                   3
-SRM-6 Ammo              2
-SRM-6 Inferno Ammo      1
-Medium LAser            4
-CASE                    1
