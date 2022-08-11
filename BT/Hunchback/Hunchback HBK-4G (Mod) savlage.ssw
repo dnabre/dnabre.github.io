@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
 <mech name="Hunchback" model="HBK-4G" tons="50" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>1382</battle_value>
-    <cost>4496875.0</cost>
+    <battle_value>1300</battle_value>
+    <cost>4442875.0</cost>
     <rules_level>2</rules_level>
     <era>2</era>
     <productionera>1</productionera>
@@ -49,7 +49,7 @@
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source>RS3039u</source>
         <info>Hunchback HBK-4G 50t, 4/6/4, Std FE, ES; 11.0T/100% Armor; 10 DHS; 2 ML, 1 SL, 1 LB20</info>
-        <battleforce pv="14" wt="2" mv="4j" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
+        <battleforce pv="13" wt="2" mv="4j" s="3" m="3" l="0" e="0" ov="0" armor="6" internal="4" abilities="CASE, SRCH, ES, SEAL, SOA, FLK 1/1/0" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <jumpjets number="4">
@@ -74,16 +74,6 @@
             <name manufacturer="Unknown">(IS) @ LB 20-X AC (Cluster)</name>
             <type>ammunition</type>
             <location index="3">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
-            <type>ammunition</type>
-            <location index="0">LT</location>
-        </equipment>
-        <equipment>
-            <name manufacturer="Unknown">(IS) @ LB 20-X AC (Cluster)</name>
-            <type>ammunition</type>
-            <location index="2">LT</location>
         </equipment>
         <equipment>
             <name manufacturer="Unknown">(IS) @ LB 20-X AC (Slug)</name>
