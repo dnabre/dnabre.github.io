@@ -1,0 +1,4 @@
+For weapon list/notes use Eurostile font, size 4.5, font-size-adjust 0.434151
+
+
+see Documents/Storage/Fonts for ttf files
