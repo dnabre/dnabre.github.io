@@ -1,0 +1,102 @@
+
+Structure and Internals:
+    2x Lower Arm (for 50t, from Crab)
+    2x Hand (for 50t, from Crab)
+    5x Jumpjets (for 50t, from Crab CRB-27sl)
+    7x JumpJets (for 35t, Jenner)
+    1x CASE (BM)
+    1x CASE (CS, 2022/08/11)
+    16x Heatsinks (single) (from Mechs before DHS conversion)
+    6x DHS (from Crab CRB-27sl)
+    6x DHS (CS, 2022/08/11)
+
+PPC:
+    1x PPC   (stock, Zeus) 
+    1x Snub PPC (from BM July)
+
+Large Laser/Pulse:
+
+    3x Large Laser (stock Crab)
+    2x Large Pulse Laser (Crab 27sl)
+    
+Medium Laser/Pulse:   
+    10x Medium Laser
+    2x Medium Pulse Laser  (Crab 27sl)
+    2x ER Medium Laser  (BM for Jenner)
+    2x Medium Laser (stock, Jenner)
+
+Small Laser/Other Energy Weapons
+    1x Small Laser (stock, Jenner)
+    1x Flamer (bought one for the Crab when I already had one)
+    1x Flamer (bought for Zeus)
+    4x Small Laser (bought 2022/07/08, for Mercury)
+    1x ER Small Laser (from Jenner JR7-F-MDJ)
+
+LRM:
+    2x LRM-15
+    2x LRM Ammo
+
+SRM:
+    1x SRM Inferno Ammo (CS)
+    1x SRM Inferno Ammo (CS, 2022/08/11)
+
+Balistic:
+    2x LB 5-X (BM)
+    2x LB 5-X Cluster Ammo (BM)
+    2x LB 5-X Slug Ammo (BM)
+
+
+-- Jenner JRF-7-Sxw0 (35t)
+    245 XL-Kit Built Engine (stock + Auction kit)
+    2.0 tons, Endo Steel
+    7.0 tons, armour (112/119, stock)
+    13x Double Heatsinks
+    1x Weird PPC (Light PPC w/ Schocastic Capacitor, Auction)
+    1x ER Large Laser (CS)
+    1x Medium Pulse Laser (Crab 27sl)
+
+-- Hunchbak HBK-4G (50t) (modded when salvaged) 
+    200 Fusion Engine (stock)
+    2.5 tons, Endo Steel
+    11.0 tons, armour (168/169 pt)
+    10x Double Heatsinks
+    4 Jumpjets (for 50 t)
+    2x Hand/Lower Arm Actuators (for 50t, stock)
+    1x CASE (stock)
+    1x Small Laser (stock)
+    2x Medium Laser (stock)
+    1x LB 20-X (stock)
+    1x LB 20-X Cluster Ammo (stock)
+    1x LB 20-X Slug Ammo (stock)
+
+
+-----------------------------------------------------------------
+------------ 86'r gear
+
+
+    10x Heatsinks (single) (from Mechs before DHS conversion)
+    3x DHS (CS 2022/08/11)
+    2x tons, SRM Inferno Ammo (CS 2022/08/11)
+    2x Medium Laser  (stock, Mercury
+    2x Small Laser (stock, Mercury)
+
+-- Mercury MCY-98-MD2 (20t)
+    160 Fusion Engine (stock)
+    1.0 tons, Endo-Steel
+    4.0 tons, armour (64/69, stock)
+    11x Double Heatsinks 
+    2x Hand/Lower Arm Actuators (for 20t, stock)
+    2x Heavy Medium Lasers (Clan, iffy, Auction) 
+    1x ER Medium Laser (BM 2022/08/09)
+
+
+
+
+
+
+
+
+
+
+
+
