@@ -13,24 +13,23 @@ Structure and Internals:
 PPC:
     1x PPC   (stock, Zeus) 
     1x Weird PPC (Light PPC w/ Schocastic Capacitor, Auction)
-    
+
 Large Laser/Pulse:
-    1x ER Large Laser (CS)
     3x Large Laser (stock Crab)
     2x Large Pulse Laser (Crab 27sl)
-    
+    1x ER Large Laser (CS)
+  
 Medium Laser/Pulse:   
     10x Medium Laser
-    2x Medium Pulse Laser  (Crab 27sl)
+    3x Medium Pulse Laser  (Crab 27sl)
     2x Medium Laser (stock, Jenner)
-    1x Medium Pulse Laser (Crab 27sl)
+    1x ER Medium Laser (BM 2022/08/09)
 
 Small Laser/Other Energy Weapons
     1x Small Laser (stock, Jenner)
     1x Flamer (bought one for the Crab when I already had one)
     1x Flamer (bought for Zeus)
     4x Small Laser (bought 2022/07/08, for Mercury)
- 
 
 LRM:
     2x LRM-15
@@ -78,17 +77,18 @@ Balistic:
     10x Heatsinks (single) (from Mechs before DHS conversion)
     3x DHS (CS 2022/08/11)
     2x tons, SRM Inferno Ammo (CS 2022/08/11)
-    2x Medium Laser  (stock, Mercury
-    2x Small Laser (stock, Mercury)
-
--- Mercury MCY-98-MD2 (20t)
+    1x Medium Laser  (stock, Mercury)
+    
+-- Mercury MCY-98-MD3 (20t)
     160 Fusion Engine (stock)
     1.0 tons, Endo-Steel
     4.0 tons, armour (64/69, stock)
     11x Double Heatsinks 
     2x Hand/Lower Arm Actuators (for 20t, stock)
     2x Heavy Medium Lasers (Clan, iffy, Auction) 
-    1x ER Medium Laser (BM 2022/08/09)
+    1x Medium Laser  (stock, Mercury)
+    2x Small Laser (stock, Mercury)
+
 
 
 
