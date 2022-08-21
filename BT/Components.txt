@@ -55,21 +55,6 @@ Balistic:
     2x ER Medium Laser  (BM for Jenner)
     1x ER Small Laser (from Jenner JR7-F-MDJ)
 
--- Hunchbak HBK-4G (50t) (modded when salvaged) 
-    200 Fusion Engine (stock)
-    2.5 tons, Endo Steel
-    11.0 tons, armour (168/169 pt)
-    10x Double Heatsinks
-    4 Jumpjets (for 50 t)
-    2x Hand/Lower Arm Actuators (for 50t, stock)
-    1x CASE (stock)
-    1x Small Laser (stock)
-    2x Medium Laser (stock)
-    1x LB 20-X (stock)
-    1x LB 20-X Cluster Ammo (stock)
-    1x LB 20-X Slug Ammo (stock)
-
-
 -----------------------------------------------------------------
 ------------ 86'r gear
 
