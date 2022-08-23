@@ -24,6 +24,7 @@ Medium Laser/Pulse:
     3x Medium Pulse Laser  (Crab 27sl)
     2x Medium Laser (stock, Jenner)
     1x ER Medium Laser (BM 2022/08/09)
+    2x Heavy Medium Lasers (Clan, iffy, Auction) 
 
 Small Laser/Other Energy Weapons
     1x Small Laser (stock, Jenner)
@@ -58,21 +59,14 @@ Balistic:
 -----------------------------------------------------------------
 ------------ 86'r gear
 
-
     10x Heatsinks (single) (from Mechs before DHS conversion)
     3x DHS (CS 2022/08/11)
     2x tons, SRM Inferno Ammo (CS 2022/08/11)
     1x Medium Laser  (stock, Mercury)
     
--- Mercury MCY-98-MD3 (20t)
-    160 Fusion Engine (stock)
-    1.0 tons, Endo-Steel
-    4.0 tons, armour (64/69, stock)
-    11x Double Heatsinks 
-    2x Hand/Lower Arm Actuators (for 20t, stock)
-    2x Heavy Medium Lasers (Clan, iffy, Auction) 
-    1x Medium Laser  (stock, Mercury)
-    2x Small Laser (stock, Mercury)
+
+
+
 
 
 
