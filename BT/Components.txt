@@ -66,6 +66,14 @@ Balistic:
     
 
 
+-- Hussar,  HSR-400-D (30t)
+    240 XL Engine (stock)
+    MASC (2 tons)
+    1.5 Endo Steel (stock)
+    6.5 tons, armour  (stock)
+    11x Double Heatsinks (stock)
+    6x Medium Lasers
+
 
 
 
