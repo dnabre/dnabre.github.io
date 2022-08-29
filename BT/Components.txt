@@ -65,8 +65,7 @@ Balistic:
     1x Medium Laser  (stock, Mercury)
     
 
-
--- Hussar,  HSR-400-D (30t)
+-- Hussar,  HSR-400-D-mk III (30t)     --- initial configuration
     240 XL Engine (stock)
     MASC (2 tons)
     1.5 Endo Steel (stock)
