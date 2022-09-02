@@ -9,6 +9,7 @@ Structure and Internals:
     16x Heatsinks (single) (from Mechs before DHS conversion)
     6x DHS (from Crab CRB-27sl)
     6x DHS (CS, 2022/08/11)
+    MASC (2 tons, from Hussar)
 
 PPC:
     1x PPC   (stock, Zeus) 
@@ -16,7 +17,8 @@ PPC:
 
 Large Laser/Pulse:
     3x Large Laser (stock Crab)
-    2x Large Pulse Laser (Crab 27sl)
+    1x Large Pulse Laser (Crab 27sl)
+
     1x ER Large Laser (CS)
   
 Medium Laser/Pulse:   
@@ -25,12 +27,14 @@ Medium Laser/Pulse:
     2x Medium Laser (stock, Jenner)
     1x ER Medium Laser (BM 2022/08/09)
     2x Heavy Medium Lasers (Clan, iffy, Auction) 
+    6x Medium Lasers (from Hussar)
 
 Small Laser/Other Energy Weapons
     1x Small Laser (stock, Jenner)
     1x Flamer (bought one for the Crab when I already had one)
     1x Flamer (bought for Zeus)
-    4x Small Laser (bought 2022/07/08, for Mercury)
+    3x Small Laser (bought 2022/07/08, for Mercury)
+    
 
 LRM:
     2x LRM-15
@@ -53,7 +57,7 @@ Balistic:
     13x Double Heatsinks
     5x JumpJets (for 35t, Jenner)
     1x Snub PPC (from BM July)
-    2x ER Medium Laser  (BM for Jenner)
+*! Missing 2x ER Medium Lasers !*
     1x ER Small Laser (from Jenner JR7-F-MDJ)
 
 -----------------------------------------------------------------
@@ -63,17 +67,17 @@ Balistic:
     3x DHS (CS 2022/08/11)
     2x tons, SRM Inferno Ammo (CS 2022/08/11)
     1x Medium Laser  (stock, Mercury)
+    0.5 tons, armor (from Hussar)
     
 
--- Hussar,  HSR-400-D-mk III (30t)     --- initial configuration
+-- Hussar,  HSR-400-MxP0 (30t)
     240 XL Engine (stock)
-    MASC (2 tons)
     1.5 Endo Steel (stock)
-    6.5 tons, armour  (stock)
+    6.0 tons, armour  (stock)
     11x Double Heatsinks (stock)
-    6x Medium Lasers
-
-
+    2x ER Medium Laser  (BM for Jenner)
+    1x Large Pulse Laser (from Crab 27sl)
+    1x Small Laser (bought 2022/07/08, for Mercury)
 
 
 
