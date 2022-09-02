@@ -42,8 +42,7 @@ LRM:
     2x LRM Ammo
 
 SRM:
-  
-    1x SRM Inferno Ammo (CS, 2022/08/11)
+      1x SRM Inferno Ammo (CS, 2022/08/11)
 
 Balistic:
     2x LB 5-X (BM)
@@ -58,8 +57,8 @@ Balistic:
     13x Double Heatsinks
     MASC (2 tons, m from Hussar)
     2x Heavy Medium Lasers (C, Clan, iffy, Auction) 
-    1x SRM Inferno Ammo (CS)
-    1x SRM Ammo (bought 2022/09/02)
+    1x 1.0 t, SRM Inferno Ammo (CS)
+    1x 1.0 t, SRM Ammo (bought 2022/09/02)
     5x SRM-2 (C, bought 2022/09/02)
     
 
