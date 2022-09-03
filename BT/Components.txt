@@ -10,25 +10,25 @@ Structure and Internals:
     6x DHS (from Crab CRB-27sl)
     6x DHS (CS, 2022/08/11)
     
-    0.5 tons, armour (Jenner, removed for weight)
-
+    MASC (2 tons,from Hussar)
 PPC:
     1x PPC   (stock, Zeus) 
-    1x Weird PPC (Light PPC w/ Schocastic Capacitor, Auction)
+
     1x Snub PPC (from BM July)
 
 Large Laser/Pulse:
     3x Large Laser (stock Crab)
     1x Large Pulse Laser (Crab 27sl)
     1x ER Large Laser (CS)
-  
+    1x Large Pulse Laser (from Crab 27sl)
+
 Medium Laser/Pulse:   
-    10x Medium Laser
+    9x Medium Laser
+    2x Heavy Medium Lasers (Clan, iffy, Auction) 
     3x Medium Pulse Laser  (Crab 27sl)
-    2x Medium Laser (stock, Jenner)
-    1x ER Medium Laser (BM 2022/08/09)
-    
-    6x Medium Lasers (from Hussar)
+
+
+
 
 Small Laser/Other Energy Weapons
     1x Small Laser (stock, Jenner)
@@ -42,7 +42,8 @@ LRM:
     2x LRM Ammo
 
 SRM:
-      1x SRM Inferno Ammo (CS, 2022/08/11)
+    1x SRM Inferno Ammo (CS, 2022/08/11)
+    1x 1.0 t, SRM Inferno Ammo (CS)
 
 Balistic:
     2x LB 5-X (BM)
@@ -50,40 +51,34 @@ Balistic:
     2x LB 5-X Slug Ammo (BM)
 
 
--- Jenner JRF-7-CxmC0 BV 1_051, adj 1_513 (35t) 
-    245 XL-Kit Built Engine (x, stock + Auction kit)
+-- Jenner JRF-7-SxJ3 BV 1_344 (35t) 
+    245 XL-Kit Built Engine (stock + Auction kit)
     2.0 tons, Endo Steel
-    6.5 tons, armour (104/119, stock)
+    7.0 tons, armour (112/119)
     13x Double Heatsinks
-    MASC (2 tons, m from Hussar)
-    2x Heavy Medium Lasers (C, Clan, iffy, Auction) 
-    1x 1.0 t, SRM Inferno Ammo (CS)
-    1x 1.0 t, SRM Ammo (bought 2022/09/02)
-    5x SRM-2 (C, bought 2022/09/02)
+    1x Light PPC (was Weird PPC)
+    1x ER Medium Laser (BM 2022/08/09)
+    2x ER Medium Laser  (BM for Jenner)
+    2x Medium Laser (stock, Jenner)
+    
     
 
 -----------------------------------------------------------------
 ------------ 86'r gear
 
     10x Heatsinks (single) (from Mechs before DHS conversion)
-    3x DHS (CS 2022/08/11)
+    2x DHS (CS 2022/08/11)
     2x tons, SRM Inferno Ammo (CS 2022/08/11)
-    1x Medium Laser  (stock, Mercury)
-    0.5 tons, armor (from Hussar)
-    
-
--- Hussar,  HSR-400-MxP0 BV 955, (30t)
-    240 XL Engine (stock)
-    1.5 Endo Steel (stock)
-    6.0 tons, armour  (stock)
-    11x Double Heatsinks (stock)
-    2x ER Medium Laser  (BM for Jenner)
-    1x Large Pulse Laser (from Crab 27sl)
     1x Small Laser (bought 2022/07/08, for Mercury)
 
-
-
-
+-- Hussar,  HSR-400-MxM0 BV 1_191, (30t)
+    240 XL Engine (stock)
+    1.5 Endo Steel (stock)
+    6.5 tons, armour  (104/105)
+    12x Double Heatsinks (stock)
+    6x Medium Lasers (from Hussar)
+    1x Medium Laser  (stock, Mercury)
+    1x Medium Laser
 
 
 
