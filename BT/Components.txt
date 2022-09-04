@@ -3,7 +3,7 @@ Structure and Internals:
     2x Lower Arm (for 50t, from Crab)
     2x Hand (for 50t, from Crab)
     5x Jumpjets (for 50t, from Crab CRB-27sl)
-    7x JumpJets (for 35t, Jenner)
+    1x JumpJets (for 35t, Jenner)
     1x CASE (BM)
     1x CASE (CS, 2022/08/11)
     16x Heatsinks (single) (from Mechs before DHS conversion)
@@ -55,6 +55,7 @@ Balistic:
     245 XL-Kit Built Engine (stock + Auction kit)
     2.0 tons, Endo Steel
     7.0 tons, armour (112/119)
+    6x JumpJets (for 35t, Jenner)
     13x Double Heatsinks
     1x Light PPC (was Weird PPC)
     1x ER Medium Laser (BM 2022/08/09)
