@@ -7,7 +7,7 @@ Structure and Internals:
     1x CASE (BM)
     1x CASE (CS, 2022/08/11)
     16x Heatsinks (single) (from Mechs before DHS conversion)
-    6x DHS (from Crab CRB-27sl)
+    4x DHS (from Crab CRB-27sl)
     6x DHS (CS, 2022/08/11)
     
 PPC:
@@ -22,16 +22,19 @@ Large Laser/Pulse:
     1x Large Pulse Laser (from Crab 27sl)
 
 Medium Laser/Pulse:   
-    9x Medium Laser
+    6x Medium Laser
+    
     2x Heavy Medium Lasers (Clan, iffy, Auction) 
     3x Medium Pulse Laser  (Crab 27sl)
-
+    1x ER Medium Laser (BM 2022/08/09)
+    2x ER Medium Laser  (BM for Jenner)
 
 Small Laser/Other Energy Weapons
     1x Small Laser (stock, Jenner)
-    1x Flamer (bought one for the Crab when I already had one)
+
     1x Flamer (bought for Zeus)
-    3x Small Laser (bought 2022/07/08, for Mercury)
+
+    
     1x ER Small Laser (from Jenner JR7-F-MDJ)
 
 LRM:
@@ -48,16 +51,18 @@ Balistic:
     2x LB 5-X Slug Ammo (BM)
 
 
--- Jenner JRF-7-SxJ3 BV 1_344 (35t) 
+-- Jenner JRF-7-SxM2 (35t)
     245 XL-Kit Built Engine (stock + Auction kit)
     2.0 tons, Endo Steel
     7.0 tons, armour (112/119)
     6x JumpJets (for 35t, Jenner)
-    13x Double Heatsinks
+    14x Double Heatsinks
     1x Light PPC (was Weird PPC)
-    1x ER Medium Laser (BM 2022/08/09)
-    2x ER Medium Laser  (BM for Jenner)
+    1x Flamer (bought one for the Crab when I already had one)
     2x Medium Laser (stock, Jenner)
+    4x Medium Laser
+
+    
     
     
 
@@ -67,31 +72,31 @@ Balistic:
     10x Heatsinks (single) (from Mechs before DHS conversion)
     2x DHS (CS 2022/08/11)
     2x tons, SRM Inferno Ammo (CS 2022/08/11)
-    1x Small Laser (bought 2022/07/08, for Mercury)
+    
 
--- Hussar,  HSR-400-MxM0 BV 1_191, (30t)
+-- Hussar,  HSR-400-MxM1 (30t)
     240 XL Engine (stock)
     1.5 tons, Endo Steel (stock)
     6.5 tons, Armour  (104/105, stock)
     12x Double Heatsinks (stock)
     6x Medium Lasers (from Hussar)
-    1x Medium Laser  (stock, Mercury)
-    1x Medium Laser
-
-
+    1x Medium Laser  (stock, Mercury) 
+    2x Small Laser (bought 2022/07/08, for Mercury)
+    
 
 
 -----------------------------------------------------------------
 ------------ Castor gear
 
 
--- Hussar-2, HSR-400-D-mk III 'Castor'
+-- Hussar-2, HSR-400-MxM1 (30t)
     240 XL Engine (Hussar-2 stock)
     1.5 tons, Endo Steel (Hussar-2 stock)
     6.5 tons, Armour (104/105, Hussar-2  stock)
     11x DHS (Hussar-2 stock)
+    1x DHS (from Crab CRB-27sl)
     7x Medium Laser (Hussar-2 stock)
-    * 2 tons unused (was used for MASC)
+    2x Small Laser (bought 2022/07/08, for Mercury)
 
 
 -----------------------------------------------------------------
