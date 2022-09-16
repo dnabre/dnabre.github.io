@@ -10,7 +10,6 @@ Structure and Internals:
     6x DHS (from Crab CRB-27sl)
     6x DHS (CS, 2022/08/11)
     
-    MASC (2 tons,from Hussar)
 PPC:
     1x PPC   (stock, Zeus) 
 
@@ -26,8 +25,6 @@ Medium Laser/Pulse:
     9x Medium Laser
     2x Heavy Medium Lasers (Clan, iffy, Auction) 
     3x Medium Pulse Laser  (Crab 27sl)
-
-
 
 
 Small Laser/Other Energy Weapons
