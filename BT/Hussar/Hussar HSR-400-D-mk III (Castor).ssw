@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Hussar" model="HSR-400-MxP0" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
+<mech name="Hussar" model="HSR-400-D-mk III &apos;Polux&apos;" tons="30" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="../Images/No_Image.png">
     <ssw_savefile_version>3</ssw_savefile_version>
-    <battle_value>955</battle_value>
-    <cost>4860440.0</cost>
+    <battle_value>1104</battle_value>
+    <cost>4788940.0</cost>
     <rules_level>3</rules_level>
     <era>2</era>
     <productionera>4</productionera>
@@ -27,7 +27,7 @@
         <location index="11">LA</location>
         <location index="11">RA</location>
     </structure>
-    <engine rating="240" manufacturer="Unknown" lsstart="3" rsstart="3" techbase="0">XL Engine</engine>
+    <engine rating="240" manufacturer="Unknown" lsstart="0" rsstart="0" techbase="0">XL Engine</engine>
     <gyro techbase="2">Standard Gyro</gyro>
     <cockpit>
         <type ejectionseat="FALSE" commandconsole="FALSE" fhes="FALSE">Standard Cockpit</type>
@@ -48,30 +48,50 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source></source>
-        <info>Hussar HSR-400-MxP0 30t, 8/12/0, XLFE, ES; 6.5T/99% Armor; 11 DHS; 2 ERML, 1 LPL</info>
-        <battleforce pv="10" wt="1" mv="8" s="2" m="2" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
+        <info>Hussar HSR-400-D-mk III 'Polux' 30t, 8/12/0, XLFE, ES; 6.5T/99% Armor; 11 DHS; 7 ML</info>
+        <battleforce pv="11" wt="1" mv="8" s="4" m="4" l="0" e="0" ov="0" armor="3" internal="1" abilities="ENE, SRCH, ES, SEAL, SOA" />
         <actuators lla="TRUE" lh="TRUE" rla="TRUE" rh="TRUE"/>
         <clancase>FALSE</clancase>
         <heatsinks number="11" techbase="0">
             <type>Double Heat Sink</type>
 
-            <location index="0">RT</location>
-            <location index="0">LT</location>
+            <location index="3">LT</location>
+            <location index="3">RT</location>
         </heatsinks>
         <equipment>
-            <name manufacturer="">(IS) Large Pulse Laser</name>
+            <name manufacturer="">(IS) Medium Laser</name>
             <type>energy</type>
-            <location index="10">CT</location>
+            <location index="6">LT</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="">(IS) Medium Laser</name>
             <type>energy</type>
-            <location index="5">LA</location>
+            <location index="3">HD</location>
         </equipment>
         <equipment>
-            <name manufacturer="">(IS) ER Medium Laser</name>
+            <name manufacturer="">(IS) Medium Laser</name>
             <type>energy</type>
-            <location index="5">RA</location>
+            <location index="7">LT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="6">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="7">RT</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">LA</location>
+        </equipment>
+        <equipment>
+            <name manufacturer="">(IS) Medium Laser</name>
+            <type>energy</type>
+            <location index="4">RA</location>
         </equipment>
     </baseloadout>
     <fluff>

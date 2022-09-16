@@ -71,8 +71,8 @@ Balistic:
 
 -- Hussar,  HSR-400-MxM0 BV 1_191, (30t)
     240 XL Engine (stock)
-    1.5 Endo Steel (stock)
-    6.5 tons, armour  (104/105)
+    1.5 tons, Endo Steel (stock)
+    6.5 tons, Armour  (104/105, stock)
     12x Double Heatsinks (stock)
     6x Medium Lasers (from Hussar)
     1x Medium Laser  (stock, Mercury)
@@ -81,8 +81,17 @@ Balistic:
 
 
 
+-----------------------------------------------------------------
+------------ Castor gear
 
 
+-- Hussar-2, HSR-400-D-mk III 'Castor'
+    240 XL Engine (Hussar-2 stock)
+    1.5 tons, Endo Steel (Hussar-2 stock)
+    6.5 tons, Armour (104/105, Hussar-2  stock)
+    11x DHS (Hussar-2 stock)
+    7x Medium Laser (Hussar-2 stock)
+    * 2 tons unused (was used for MASC)
 
 
-
+-----------------------------------------------------------------
