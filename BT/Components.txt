@@ -9,10 +9,12 @@ Structure and Internals:
     16x Heatsinks (single) (from Mechs before DHS conversion)
     4x DHS (from Crab CRB-27sl)
     6x DHS (CS, 2022/08/11)
+
+    1x Anti-Missile System (BM, 2022/09/20)
+    7x ton AMS Ammo (BM, 2022/09/20)
     
 PPC:
-    1x PPC   (stock, Zeus) 
-
+    1x PPC   (stock, Zeus)
     1x Snub PPC (from BM July)
 
 Large Laser/Pulse:
@@ -23,18 +25,15 @@ Large Laser/Pulse:
 
 Medium Laser/Pulse:   
     6x Medium Laser
-    
     2x Heavy Medium Lasers (Clan, iffy, Auction) 
     3x Medium Pulse Laser  (Crab 27sl)
     1x ER Medium Laser (BM 2022/08/09)
     2x ER Medium Laser  (BM for Jenner)
+    1x ER Medium Laser (BM 2022/09/20)
 
 Small Laser/Other Energy Weapons
     1x Small Laser (stock, Jenner)
-
-    1x Flamer (bought for Zeus)
-
-    
+    1x Flamer (bought for Zeus)    
     1x ER Small Laser (from Jenner JR7-F-MDJ)
 
 LRM:
